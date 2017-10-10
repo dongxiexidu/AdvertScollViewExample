@@ -37,4 +37,4 @@ advertScrollViewBottom.topSignImages = ["dot", "dot", "dot"]
 advertScrollViewBottom.topTitles = ["聚惠女王节，香米更低价满150减10", "HTC新品首发，预约送大礼包", "“挑食”进口生鲜，满199减20"]
 advertScrollViewBottom.bottomSignImages = ["dot", "dot", "dot"]
 advertScrollViewBottom.bottomTitles = ["满150减10+满79减5", "12期免息＋免费试用", "领券满199减20+进口直达"]
-   ```
+```
