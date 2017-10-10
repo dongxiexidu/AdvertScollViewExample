@@ -39,5 +39,5 @@ advertScrollViewBottom.bottomSignImages = ["dot", "dot", "dot"]
 advertScrollViewBottom.bottomTitles = ["满150减10+满79减5", "12期免息＋免费试用", "领券满199减20+进口直达"]
 ```
 
-#### 原作者
+#### 注:非原创,原作者是`kingsic`用Objective-C写的,本人只是照着翻译成Swift而已,非常感谢原作者允许公开,供大家参考
 [kingsic](https://github.com/kingsic/SGAdvertScrollView)
