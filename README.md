@@ -3,7 +3,7 @@
 
 ## 效果图
 
-![](https://github.com/kingsic/SGAdvertScrollView/raw/master/Gif/sorgle.gif)
+![](https://github.com/dongxiexidu/AdvertScollViewExample/blob/master/demo.gif)
 
 
 ### Dependency
