@@ -38,3 +38,6 @@ advertScrollViewBottom.topTitles = ["聚惠女王节，香米更低价满150减1
 advertScrollViewBottom.bottomSignImages = ["dot", "dot", "dot"]
 advertScrollViewBottom.bottomTitles = ["满150减10+满79减5", "12期免息＋免费试用", "领券满199减20+进口直达"]
 ```
+
+#### 原作者
+[kingsic](https://github.com/kingsic/SGAdvertScrollView)
